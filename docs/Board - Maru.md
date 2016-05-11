@@ -1,6 +1,10 @@
+
 # Board - Maru
 
-The Maru target supports all Maru hardware revisions. Maru hardware revisions may have issues,
+Maru is the first flight controller board for Cleanflight. It supports all the latest Cleanflight features.
+Purchasing board directly from Maru helps fund Cleanflight development.
+
+The Maru target supports Maru hardware revisions. Maru hardware revisions may have issues,
 if found please report via the [github issue tracker](https://github.com/cleanflight/cleanflight/issues).
 
 ## Serial Ports

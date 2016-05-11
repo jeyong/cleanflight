@@ -11,6 +11,7 @@ The core set of recommended boards are:
 * [TBS Colibri Race](Board%20-%20ColibriRace.md)
 * [AlienWiiF3](Board%20-%20AlienWii32.md)
 * [TauLabs Sparky](Board%20-%20Sparky.md)
+* [Maru](Board%20-%20Maru.md)
 
 The core set of legacy boards are:
 
